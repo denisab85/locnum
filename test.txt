@@ -1,0 +1,22 @@
+abcdefghijklmnopqrstuvwxyz
+to_loc: 1 : a
+to_loc: 0 :
+to_loc : 9 : ad
+to_loc : 87 : abceg
+to_int: ad : 9
+to_int : denis : 270616
+to_int : delphi : 35224
+to_int: cabbage : 90
+abbreviate : cca : ad
+abbreviate : cabb : ad
+abbreviate : ccccccc : cde
+
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+to_loc : 9 : ad
+to_int: ad : 9
+abbreviate : acc : ad
+
+abcdefghi
+to_loc : 9 : ad
+to_int: ad : 9
+abbreviate : acc : ad
