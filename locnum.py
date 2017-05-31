@@ -10,6 +10,7 @@
 class LocalNumeral:
     """class to convert from decimal numbers to location numerals and back."""
     def __init__(self, dictionary="abcdefghijklmnopqrstuvwxyz"):
+        """takes dictionary string as input and initializes a dictionary"""
         # check uniqueness of dictionary item
         if len(set(dictionary)) == len(dictionary):
             self.dic = dictionary
