@@ -11,3 +11,4 @@ class LocalNumeral:
     def abbreviate(self, loc_n):
         """method that takes a location numeral and returns it in abbreviated form."""
 ```
+For a simple demo, start test.py
